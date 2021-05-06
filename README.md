@@ -1,1 +1,1 @@
-A simple website page made in a basic course of HTML5 and CSS3.
+Uma página web simples feita com HTML5 and CSS3.
